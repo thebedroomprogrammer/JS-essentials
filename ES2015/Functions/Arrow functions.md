@@ -1,6 +1,6 @@
 ## Arrow functions
 
-With ES6, apart from the regular function expression came a new function expression, which can be used to decalre a function, known as the arrow function expression. Apart, from the syntax being different,, an arrow function behaves pretty differently as compared to the traditional functions :
+With ES6, apart from the regular function expression came a new function expression, which can be used to decalre a function, known as the arrow function expression. Apart, from the syntax being different, an arrow function behaves pretty differently as compared to the traditional functions :
 
 1. The `this` is lexically binded, which means they are always binded to the closest context they are declared in.
 2. These are always anonymous functions ie., they can never have a name.
